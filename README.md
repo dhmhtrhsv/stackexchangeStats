@@ -43,18 +43,17 @@ python -m stackexchangeStats.stackexchangeStats stats --since 2016-06-02-10-00-0
 
 ## Installation  
 The specific package was tested using python 2.7.15 both in Windows 10 and Ubuntu 18.10.  
-  
-#### Windows  
-Download the file in the zip format and save it e.g. in the Downloads folder.  
-Open a Command Prompt in a new folder and type:   
+
+Download the file in the zip format from the dist folder and save it e.g. in the Downloads folder.  
+#### Windows 
+Open a Command Prompt and type:   
 ``` 
 pip install C:\Users\user\Downloads\stackexchangeStats-1.0.zip  
 ```  
 where in the place of the user, type your username. If you save it in another location, edit the path respectively.  
   
 #### Ubuntu  
-Download the file in the zip format and save it e.g. in the Downloads folder.  
-Open a Terminal in a new folder and type:   
+Open a Terminal and type:   
 ```
 pip install /home/user/Downloads/stackexchangeStats-1.0.zip  
 ```  
