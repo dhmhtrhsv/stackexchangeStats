@@ -1,6 +1,6 @@
 # stackexchangeStats  
 
-## Deletion
+## Description
 A simple Python application named **stackexchangeStats** that retrieves data from the StackExchange API and calculates some simple statistics.
 
 It provides a commandline executable that takes as input a
